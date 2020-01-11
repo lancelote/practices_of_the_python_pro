@@ -1,6 +1,7 @@
 # practices_of_the_python_pro
 
-Code samples from [Practices of the Python Pro][1] book by Dane Hillard
+My experiments with code samples from [Practices of the Python Pro][1] book by
+Dane Hillard
 
 ## TOC
 
