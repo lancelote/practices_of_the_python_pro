@@ -9,7 +9,7 @@ Dane Hillard
     - [x] Chapter 1: The bigger picture
 - [ ] Part 2: Foundations of design
     - [x] Chapter 2: Separation of concerns
-    - [ ] Chapter 3: Abstraction and encapsulation
+    - [x] Chapter 3: Abstraction and encapsulation
     - [ ] Chapter 4: Designing for high performance
     - [ ] Chapter 5: Testing your software
 - [ ] Part 3: Nailing down large systems
