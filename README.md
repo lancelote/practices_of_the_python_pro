@@ -15,6 +15,7 @@ Dane Hillard
         - [Simple Class-based Application](src/part_2/chapter_3/greeter.py)
     - [ ] Chapter 4: Designing for high performance
         - [`timeit` Usage](src/part_2/chapter_4/timeit_usage.py)
+        - [Compare List and Check with `timeit`](src/part_2/chapter_4/compare_list_and_set.py)
     - [ ] Chapter 5: Testing your software
 - [ ] Part 3: Nailing down large systems
     - [ ] Chapter 6: Separation of concerns in practice
