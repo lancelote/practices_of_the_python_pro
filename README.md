@@ -14,6 +14,7 @@ Dane Hillard
     - [x] Chapter 3: Abstraction and encapsulation
         - [Simple Class-based Application](src/part_2/chapter_3/greeter.py)
     - [ ] Chapter 4: Designing for high performance
+        - [`timeit` Usage](src/part_2/chapter_4/timeit_usage.py)
     - [ ] Chapter 5: Testing your software
 - [ ] Part 3: Nailing down large systems
     - [ ] Chapter 6: Separation of concerns in practice
