@@ -13,7 +13,7 @@ Dane Hillard
         - [Extracting Logic to Class](src/part_2/chapter_2/extracting_to_class.py)
     - [x] Chapter 3: Abstraction and encapsulation
         - [Simple Class-based Application](src/part_2/chapter_3/greeter.py)
-    - [ ] Chapter 4: Designing for high performance
+    - [x] Chapter 4: Designing for high performance
         - [`timeit` Usage](src/part_2/chapter_4/timeit_usage.py)
         - [Compare List and Check with `timeit`](src/part_2/chapter_4/compare_list_and_set.py)
     - [ ] Chapter 5: Testing your software
